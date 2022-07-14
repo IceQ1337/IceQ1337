@@ -8,9 +8,9 @@ $ echo "Welcome to IceQ1337's profile" > README.md
 
 <!-- GitHub Stats -->
 <a href="https://github.com/IceQ1337">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IceQ1337&custom_title=IceQ1337's+GitHub+Stats+(Public)&show_icons=true&hide=stars&include_all_commits=true&theme=dark&icon_color=a371f7" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IceQ1337&custom_title=IceQ1337's+GitHub+Stats+(Public)&show_icons=true&include_all_commits=true&theme=dark&icon_color=a371f7" />
 </a>
     
 <a href="https://github.com/IceQ1337">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceQ1337&custom_title=Top+Languages+(Public+%26+Non-Org)&theme=dark&icon_color=a371f7&hide=batchfile" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceQ1337&layout=compact&custom_title=Top+Languages+(Public+%26+Non-Org)&theme=dark&icon_color=a371f7&hide=batchfile" />
 </a>
