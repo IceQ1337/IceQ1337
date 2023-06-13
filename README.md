@@ -22,7 +22,7 @@ $ echo "Welcome to IceQ1337's profile" > README.md
 #### Contact
 
 <!-- Profile Badges -->
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=IceQ%237414&color=a371f7&logo=Discord&logoColor=white)](https://discordapp.com/users/356252587361566720/) [![Steam](https://img.shields.io/static/v1?label=Steam&message=76561198129782984&color=a371f7&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198129782984/)
+[![Discord](https://img.shields.io/static/v1?label=Discord&message=IceQ1337&color=a371f7&logo=Discord&logoColor=white)](https://discordapp.com/users/356252587361566720/) [![Steam](https://img.shields.io/static/v1?label=Steam&message=76561198129782984&color=a371f7&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198129782984/)
 
 <br clear="right"/>
 
