@@ -6,7 +6,7 @@ $ echo "Welcome to IceQ1337's profile" > README.md
 ### Hi, I'm IceQ?! :v:
 
 <!-- Follow Buttons -->
-[![Github](https://img.shields.io/github/followers/IceQ1337?label=Follow&style=social)](https://github.com/IceQ1337)  [![Twitter](https://img.shields.io/twitter/follow/IceQ1337?style=social)](https://twitter.com/IceQ1337)
+[![Github](https://img.shields.io/github/followers/IceQ1337?label=Follow&style=social)](https://github.com/IceQ1337)
 
 <!-- GitHub Stats -->
 <picture>
@@ -21,8 +21,16 @@ $ echo "Welcome to IceQ1337's profile" > README.md
 
 #### Contact
 
-<!-- Profile Badges -->
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=IceQ1337&color=a371f7&logo=Discord&logoColor=white)](https://discordapp.com/users/356252587361566720/) [![Steam](https://img.shields.io/static/v1?label=Steam&message=76561198129782984&color=a371f7&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198129782984/)
+<!-- Contact Options -->
+<a href="https://twitter.com/IceQ1337">
+    <img width="20px" height="20px" src="https://cdn.simpleicons.org/x/000000" />
+</a>
+<a href="https://discordapp.com/users/356252587361566720/">
+    <img width="20px" height="20px" src="https://cdn.simpleicons.org/discord/000000" />
+</a>
+<a href="https://steamcommunity.com/profiles/76561198129782984/">
+    <img width="20px" height="20px" src="https://cdn.simpleicons.org/steam/000000" />
+</a>
 
 <br clear="right"/>
 
