@@ -3,7 +3,7 @@
 $ echo "Welcome to IceQ1337's profile" > README.md
 ```
 
-### Hi, I'm IceQ?! :v:
+### Hi, I'm Moritz! :v:
 
 <!-- Follow Buttons -->
 [![Github](https://img.shields.io/github/followers/IceQ1337?label=Follow&style=social)](https://github.com/IceQ1337)
