@@ -23,13 +23,13 @@ $ echo "Welcome to IceQ1337's profile" > README.md
 
 <!-- Contact Options -->
 <a href="https://twitter.com/IceQ1337">
-    <img width="20px" height="20px" src="https://cdn.simpleicons.org/x/495f7e" />
+    <img align="left" width="20px" height="20px" src="https://cdn.simpleicons.org/x/495f7e" />
 </a>
 <a href="https://discordapp.com/users/356252587361566720/">
-    <img width="20px" height="20px" src="https://cdn.simpleicons.org/discord/495f7e" />
+    <img align="left" width="20px" height="20px" src="https://cdn.simpleicons.org/discord/495f7e" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561198129782984/">
-    <img width="20px" height="20px" src="https://cdn.simpleicons.org/steam/495f7e" />
+    <img align="left" width="20px" height="20px" src="https://cdn.simpleicons.org/steam/495f7e" />
 </a>
 
 <br clear="right"/>
