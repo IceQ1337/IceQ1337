@@ -27,7 +27,3 @@ $ echo "Welcome to IceQ1337's profile" > README.md
 <br clear="right"/>
 
 ---
-
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iceq1337&theme=github_dark" alt="GitHub Profile Summary">
-</div>
