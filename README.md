@@ -10,9 +10,9 @@ $ echo "Welcome to IceQ1337's profile" > README.md
 
 <!-- GitHub Stats -->
 <picture>
-    <source type="image/svg+xml" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=IceQ1337&include_all_commits=true&include_orgs=true&theme=dark&show_icons=true&icon_color=a371f7&hide_border=true&custom_title=IceQ1337's+Public+GitHub+Stats">
-    <source type="image/svg+xml" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=IceQ1337&include_all_commits=true&include_orgs=true&show_icons=true&icon_color=a371f7&hide_border=true&custom_title=IceQ1337's+Public+GitHub+Stats">
-    <img align="right" width="50%" alt="IceQ1337's Public GitHub Stats" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=IceQ1337&include_all_commits=true&include_orgs=true&theme=dark&show_icons=true&icon_color=a371f7&hide_border=true&custom_title=IceQ1337's+Public+GitHub+Stats">
+    <source type="image/svg+xml" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=IceQ1337&include_all_commits=true&include_orgs=true&theme=dark&show_icons=true&icon_color=ffffff&hide_border=true&custom_title=IceQ1337's+Public+GitHub+Stats">
+    <source type="image/svg+xml" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=IceQ1337&include_all_commits=true&include_orgs=true&show_icons=true&icon_color=ffffff&hide_border=true&custom_title=IceQ1337's+Public+GitHub+Stats">
+    <img align="right" width="50%" alt="IceQ1337's Public GitHub Stats" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=IceQ1337&include_all_commits=true&include_orgs=true&theme=dark&show_icons=true&icon_color=ffffff&hide_border=true&custom_title=IceQ1337's+Public+GitHub+Stats">
 </picture>
 
 - :mortar_board: &nbsp; Graduate from TH-Köln :de:
