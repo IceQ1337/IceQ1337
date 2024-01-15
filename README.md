@@ -15,7 +15,7 @@ $ echo "Welcome to IceQ1337's profile" > README.md
     <img align="right" width="50%" alt="IceQ1337's Public GitHub Stats" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=IceQ1337&include_all_commits=true&include_orgs=true&theme=dark&show_icons=true&icon_color=a371f7&hide_border=true&custom_title=IceQ1337's+Public+GitHub+Stats">
 </picture>
 
-- :mortar_board: &nbsp; Undergraduate Student at TH-Köln :de:
+- :mortar_board: &nbsp; Graduate from TH-Köln :de:
 - :hammer: &nbsp; Mostly working with: PHP, JavaScript :shipit:
 - :key: &nbsp; GPG Key: [`718278A5857CA396`](https://github.com/iceq1337.gpg)
 
